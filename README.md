@@ -1,1 +1,1 @@
-# 844198-codesprint-ui-mywork
+# pushed data of form into the local storage and showed that data in console
