@@ -1,0 +1,1 @@
+pushed data into local storage and showed that data into console
